@@ -11,7 +11,6 @@ function App() {
                 <div className="dsmeta-container">
                   <Header />
                   <SalesCard />
-                  <NotificationButton />
                 </div>
         </section>
       </main>             
