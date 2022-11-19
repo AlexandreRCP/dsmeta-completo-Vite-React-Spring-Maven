@@ -5,8 +5,8 @@ function Header() {
     return (
         <header>
             <div className="dsmeta-logo-container">
-                <img src={logo} alt="DSMeta" />
-                <h1>DSMeta</h1>
+                <img src={logo} alt="ADMeta" />
+                <h1>ADMeta</h1>
                 <p>
                     Desenvolvido por 
                     <a href="https://www.instagram.com/alex.rcp"> @alex.rcp</a>
