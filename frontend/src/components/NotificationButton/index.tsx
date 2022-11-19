@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { toast } from 'react-toastify';
 import vector from '../../assets/img/vector.svg';
-import { BASE_URL } from '../../utils/request';
+import { BASE_URL } from "../../utils/request";
 import './styles.css';
 
 type Props = {
